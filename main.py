@@ -1,0 +1,3 @@
+import atiras
+
+atiras.feladat()
